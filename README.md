@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+project incomplete... 
+set up the part of the front end of the applciation using react
 
 ## Available Scripts
 
